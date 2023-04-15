@@ -1,13 +1,3 @@
-yo yo yo
-
-asd asd asd
-
-hmm
-
-
-
-
-
 Introduction:
 
 My name is Emil Bosznai and I'm 28 years old coming from Hungary, currently working as a Scientist in the biopharma industry in Switzerland. 
@@ -15,7 +5,6 @@ As far as my experience goes, I had studied biochemical engineering, where I wro
 which greatly involved data science techniques (in Unscrambler X) since I had approximatelly half a million data points. Although my coding background was fairly simple,
 lately I've completed several courses on Datacamp (NumPy, Pandas, Matplotlib, Seaborn), which I feel like really boosted my knowledge in data science with Python. 
 I feel like I have a good base for any further required math knowledge from my university.
-
 
 My expectations and hopes:
 

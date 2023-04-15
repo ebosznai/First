@@ -1,0 +1,26 @@
+yo yo yo
+
+asd asd asd
+
+hmm
+
+
+
+
+
+Introduction:
+
+My name is Emil Bosznai and I'm 28 years old coming from Hungary, currently working as a Scientist in the biopharma industry in Switzerland. 
+As far as my experience goes, I had studied biochemical engineering, where I wrote my Masters' thesis in a topic (bonding kinetics of multicomponent adhesives), 
+which greatly involved data science techniques (in Unscrambler X) since I had approximatelly half a million data points. Although my coding background was fairly simple,
+lately I've completed several courses on Datacamp (NumPy, Pandas, Matplotlib, Seaborn), which I feel like really boosted my knowledge in data science with Python. 
+I feel like I have a good base for any further required math knowledge from my university.
+
+
+My expectations and hopes:
+
+What I hope to gain from this course is an advanced understanding and experience in model building and also the ability to understand/interpret hidden rules in complex data. 
+My plans are to use my gained knowledge most likely with Tensorflow2 (or SageMaker) for building a computational model of human cellular biology to fight cancer (predicted drug discovery). 
+I hope I'll be able to design datasets to run production grade, large trainings on a cell model (made by a Hungarian company) with the help of supercomputers.
+This is no easy task, because as we dwelve deeper into sub-cellular mechanisms there’s very little data (also the lab measurements can be noisy).
+Furthermore I hope to be able to implement ETL procedures combining multiple databases.
